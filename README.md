@@ -1,2 +1,2 @@
-# blog_AP
+# Blogs_AP
 Guiones de análisis y construcción de gráficas para posts de Animal Político.
